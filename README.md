@@ -27,12 +27,12 @@ cd voyage-maurice-co2
 
 
 ### 3️⃣ Installer les dépendances
-```bash
+
 pip install -r requirements.txt
 ```
 
 ### 4️⃣ Lancer l'application
-```bash
+
 streamlit run app.py
 ```
 
