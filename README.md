@@ -22,11 +22,11 @@ Une application **Streamlit** simple et visuelle pour analyser l’empreinte car
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-utilisateur/voyage-maurice-co2.git
+git clone https://github.com/votre-utilisateur/Analyse_CO2 .git
 cd voyage-maurice-co2
 
 
-### 3️⃣ Installer les dépendances
+### Installer les dépendances
 
 pip install -r requirements.txt
 ```
